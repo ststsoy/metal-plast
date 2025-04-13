@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"Productf"
+			],
+			[
+				"prod",
+				"productfo2"
+			],
+			[
+				"p",
+				"productfo"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"pr",
+				"productfo"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"vi",
+				"video"
+			],
+			[
+				"ba",
+				"baskets"
+			],
+			[
+				"ad",
+				"adress"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"o",
+				"ord"
+			],
+			[
+				"b",
+				"baskets"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"t",
+				"total_quantity"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"O",
+				"OrderForm"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"I",
+				"Insvid"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"st",
+				"static"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/login.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/myvideo/templates/myvideo/video.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/product.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/products.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/baskets.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/order.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/orders.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/fishAturau/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/news/templates/news/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/satuproject/settings.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/fishAturau/settings.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/myvideo/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/forms.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/bootstrap/exemple/bootstrap-5.3.3-examples/carousel/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/products",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/register.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/magazin/form.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/myvideo/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/myvideo/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/myvideo/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/newsself/templates/newsself/newsselfs.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/newsself/templates/newsself/newsself.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/newsself/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/newsself/forms.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/users/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/users/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/templates/homesatu/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/bootstrap/exemple/bootstrap-5.3.3-examples/checkout/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/newsself/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/newsself/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/news/templates/news/perec.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/newsself/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/templates/register.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/news/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/bootstrap/exemple/bootstrap-5.3.3-examples/checkout/checkout.css",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/fishAturau/magazin/form.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/article/templates/articles.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/article/forms.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/article/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/article/templates/article.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/article/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/article/models.pyc",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/templates/homesatu/invid.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/templates/homesatu/base.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/MyProject/image/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/satuproject/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/templates/main.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/templates/myview.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/article/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/MyProject/image/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/firstapp/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/firstapp/firstapp/settings.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/instrucVideo/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/instrucVideo/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/instrucVideo/templates/instrucVideo/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/bootstrap-5.3.3-examples/product/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/static/css/product.css",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/TSOYSOFT/templates/all.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/TSOYSOFT/templates/main.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/magazin/templates/magazin/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/djangoproject/satuproject/homesatu/static/js/bootstrap.min.css",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/news/templates/news/index.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/magazin/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/magazin/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/magazin/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/magazin/apps.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/fishAturau/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/magazin/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/news/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/news/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/fishAturau/settings.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/news/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/Carousel Template · Bootstrap v5.3.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/news/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/dfm/MyProject/image/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/dfm/MyProject/python/models.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/fishAturau/manage.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/dfm/MyProject/image/admin.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/dfm/MyProject/image/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/dfm/MyProject/image/templates/man.html",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/dfm/MyProject/MyProject/settings.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/TSOYSOFT/TSOYSOFT/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/TSOYSOFT/dom/views.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/TSOYSOFT/dom/urls.py",
+		"/C/myenv/alexdjango/Scripts/hlop/hlop/urls.py",
+		"/C/myenv/alexdjango/Scripts/TSOYSOFT/TSOYSOFT/urls.py",
+		"/C/myenv/alexdjango/Scripts/TSOYSOFT/dom/urls.py",
+		"/C/Users/user.DESKTOP-RNAISPM/Desktop/MyProject/dom/urls.py",
+		"/F/DeskTop/Сorse Libgdx/LibGDX Part 8_ Making Mario in Box2D - Creating Super Mario Bros.mp4"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" <nav class=\"d-inline-flex mt-2 mt-md-0 ms-md-auto\">",
+			"d-inline-flex mt-2 mt-md-0 ms-md-auto",
+			"home",
+			"Heading",
+			".bd-placeholder-img",
+			"Satu\n",
+			"navbar-nav ",
+			"col-md",
+			"col-12",
+			"py-5",
+			"container",
+			"navbar",
+			"navbar\n",
+			"navbar",
+			"background",
+			"b-example-divider",
+			"background",
+			"Background",
+			"Pricing",
+			"Pricing examplePricing example",
+			"Pricing example",
+			"Free",
+			"Scr",
+			"head",
+			"First featurette heading",
+			"First featurette heading. It’ll blow your mind",
+			"First featurette heading. It’ll blow your mind.",
+			"First featurette ",
+			"First",
+			"First featurette heading. It’ll blow your mind",
+			"First featurette heading. It’ll blow your mind.",
+			"bd-placeholder-img rounded-circle",
+			"Another example headline\n",
+			"Another example headline.\n",
+			"BalikAturau\n",
+			"One more for good measur\n",
+			"One more for good measure.\nSome representative placeholder\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "baskets.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
